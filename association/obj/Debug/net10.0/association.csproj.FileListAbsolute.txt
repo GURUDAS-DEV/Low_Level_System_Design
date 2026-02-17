@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\bin\Debug\net10.0\association.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\bin\Debug\net10.0\association.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\bin\Debug\net10.0\association.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\bin\Debug\net10.0\association.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\bin\Debug\net10.0\association.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\refint\association.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\association.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\association\obj\Debug\net10.0\ref\association.dll

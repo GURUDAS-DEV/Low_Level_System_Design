@@ -12,3 +12,4 @@ C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\ref
 C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.pdb
 C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.genruntimeconfig.cache
 C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\ref\Enums.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.sourcelink.json
