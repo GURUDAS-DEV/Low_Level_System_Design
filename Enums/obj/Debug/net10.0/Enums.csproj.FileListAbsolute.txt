@@ -1,0 +1,14 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\bin\Debug\net10.0\Enums.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\bin\Debug\net10.0\Enums.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\bin\Debug\net10.0\Enums.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\bin\Debug\net10.0\Enums.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\bin\Debug\net10.0\Enums.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\refint\Enums.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\Enums.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Enums\obj\Debug\net10.0\ref\Enums.dll
