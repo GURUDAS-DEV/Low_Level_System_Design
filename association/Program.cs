@@ -16,17 +16,15 @@
         Room r1 = new Room("R1", 1);
         Room r2 = new Room("R2", 3);
 
-        p1.addAppointmentForPatient(doctor1.Name);
-        p1.addAppointmentForPatient(doctor2.Name);
+        Appointment appointment1 = new Appointment(doctor1, p1, r1, DateTime.Now);
+        Appointment appointment2 = new Appointment(doctor1, p4, r2, DateTime.Now);
+        Appointment appointment3 = new Appointment(doctor2, p3, r2, DateTime.Now);
 
-        doctor1.AddAppointment(p1.Name);
-        doctor1.AddAppointment(p4.Name);
-        doctor2.AddAppointment(p2.Name);
-        doctor2.AddAppointment(p3.Name);
-
-        Appointment appointment1 = new Appointment(doctor1.Name, p1.Name, r1.RoomId, DateTime.Now);
-        Appointment appointment2 = new Appointment(doctor1.Name, p4.Name, r2.RoomId, DateTime.Now);
-        Appointment appointment3 = new Appointment(doctor2.Name, p3.Name, r3.RoomId, DateTime.Now);
+        appointment1.getAppointmentDetails();
+        Console.WriteLine(" ");
+        appointment2.getAppointmentDetails();
+        Console.WriteLine(" ");
+        appointment3.getAppointmentDetails();
     }
 }
 
