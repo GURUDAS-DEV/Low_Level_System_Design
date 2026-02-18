@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\bin\Debug\net10.0\Composition.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\bin\Debug\net10.0\Composition.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\bin\Debug\net10.0\Composition.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\bin\Debug\net10.0\Composition.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\bin\Debug\net10.0\Composition.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\refint\Composition.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\Composition.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\Composition\obj\Debug\net10.0\ref\Composition.dll
