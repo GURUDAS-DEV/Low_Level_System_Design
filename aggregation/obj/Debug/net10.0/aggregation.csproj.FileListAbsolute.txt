@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\bin\Debug\net10.0\aggregation.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\bin\Debug\net10.0\aggregation.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\bin\Debug\net10.0\aggregation.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\bin\Debug\net10.0\aggregation.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\bin\Debug\net10.0\aggregation.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\refint\aggregation.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\aggregation.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\aggregation\obj\Debug\net10.0\ref\aggregation.dll
