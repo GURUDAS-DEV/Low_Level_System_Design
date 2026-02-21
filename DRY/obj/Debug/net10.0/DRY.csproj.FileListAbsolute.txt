@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\bin\Debug\net10.0\DRY.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\bin\Debug\net10.0\DRY.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\bin\Debug\net10.0\DRY.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\bin\Debug\net10.0\DRY.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\bin\Debug\net10.0\DRY.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\refint\DRY.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\DRY.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DRY\obj\Debug\net10.0\ref\DRY.dll

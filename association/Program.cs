@@ -27,4 +27,3 @@
         appointment3.getAppointmentDetails();
     }
 }
-
