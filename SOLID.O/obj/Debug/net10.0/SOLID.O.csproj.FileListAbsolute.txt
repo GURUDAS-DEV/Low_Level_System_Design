@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\bin\Debug\net10.0\SOLID.O.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\bin\Debug\net10.0\SOLID.O.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\bin\Debug\net10.0\SOLID.O.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\bin\Debug\net10.0\SOLID.O.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\bin\Debug\net10.0\SOLID.O.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\refint\SOLID.O.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\SOLID.O.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\SOLID.O\obj\Debug\net10.0\ref\SOLID.O.dll
