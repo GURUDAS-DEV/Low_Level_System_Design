@@ -1,4 +1,4 @@
-public enum paymentMethodsEnum
+public enum paymentMethodsEnum 
 {
     UPI, 
     Debit_Card,
@@ -22,3 +22,4 @@ public class PaymentMethods
         Console.WriteLine($"{UsedMethods} is Processing");
     }
 }
+//payment methods 
