@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\bin\Debug\net10.0\SingletonExercise.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\bin\Debug\net10.0\SingletonExercise.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\bin\Debug\net10.0\SingletonExercise.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\bin\Debug\net10.0\SingletonExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\bin\Debug\net10.0\SingletonExercise.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\refint\SingletonExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\SingletonExercise.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\SingletonExercise\obj\Debug\net10.0\ref\SingletonExercise.dll
