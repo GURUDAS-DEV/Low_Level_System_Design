@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\bin\Debug\net10.0\Singleton.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\bin\Debug\net10.0\Singleton.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\bin\Debug\net10.0\Singleton.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\bin\Debug\net10.0\Singleton.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\bin\Debug\net10.0\Singleton.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\refint\Singleton.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\Singleton.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\Singleton\obj\Debug\net10.0\ref\Singleton.dll
