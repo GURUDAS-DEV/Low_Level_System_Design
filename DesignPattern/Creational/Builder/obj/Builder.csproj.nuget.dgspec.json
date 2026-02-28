@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Factory\\Factory.csproj": {}
+    "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Factory\\Factory.csproj": {
+    "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Factory\\Factory.csproj",
-        "projectName": "Factory",
-        "projectPath": "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Factory\\Factory.csproj",
+        "projectUniqueName": "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Builder\\Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\Gursa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Factory\\obj\\",
+        "outputPath": "C:\\Users\\Gursa\\OneDrive\\Desktop\\CODING\\System_Design\\DesignPattern\\Creational\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gursa\\AppData\\Roaming\\NuGet\\NuGet.Config",
