@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\bin\Debug\net10.0\BuilderExercise.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\bin\Debug\net10.0\BuilderExercise.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\bin\Debug\net10.0\BuilderExercise.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\bin\Debug\net10.0\BuilderExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\bin\Debug\net10.0\BuilderExercise.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\refint\BuilderExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\BuilderExercise.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\BuilderExercise\obj\Debug\net10.0\ref\BuilderExercise.dll
