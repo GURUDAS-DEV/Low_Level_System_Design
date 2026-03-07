@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\bin\Debug\net10.0\PrototypeExercise.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\bin\Debug\net10.0\PrototypeExercise.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\bin\Debug\net10.0\PrototypeExercise.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\bin\Debug\net10.0\PrototypeExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\bin\Debug\net10.0\PrototypeExercise.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\refint\PrototypeExercise.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\PrototypeExercise.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Creational\PrototypeExercise\obj\Debug\net10.0\ref\PrototypeExercise.dll
