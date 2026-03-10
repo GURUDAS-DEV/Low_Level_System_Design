@@ -5,7 +5,7 @@
         IGUIFactory factory = new WinFactory();
         IButton button = factory.CreateButton();
         ITextBox textBox = factory.CreateTextBox();
-
+ 
         button.Render();
         textBox.Render();
 
