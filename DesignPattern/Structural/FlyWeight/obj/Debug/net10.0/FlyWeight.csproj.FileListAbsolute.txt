@@ -1,0 +1,15 @@
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\bin\Debug\net10.0\FlyWeight.exe
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\bin\Debug\net10.0\FlyWeight.deps.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\bin\Debug\net10.0\FlyWeight.runtimeconfig.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\bin\Debug\net10.0\FlyWeight.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\bin\Debug\net10.0\FlyWeight.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.AssemblyInfoInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.AssemblyInfo.cs
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.sourcelink.json
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\refint\FlyWeight.dll
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.pdb
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\FlyWeight.genruntimeconfig.cache
+C:\Users\Gursa\OneDrive\Desktop\CODING\System_Design\DesignPattern\Structural\FlyWeight\obj\Debug\net10.0\ref\FlyWeight.dll
